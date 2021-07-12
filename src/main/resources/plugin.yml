@@ -1,0 +1,6 @@
+name: WorldAlias
+version: ${project.version}
+main: com.bilicraft.worldalias.WorldAlias
+api-version: 1.17
+depend: [ PlaceholderAPI ]
+description: 世界别称，支持RGB
